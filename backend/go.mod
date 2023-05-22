@@ -1,4 +1,4 @@
-module github.com/mercari-build/mecari-build-hackathon-2023/backend
+module github.com/kyanachana/mecari-build-hackathon-2023/backend
 
 go 1.19
 require (
